@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ct_merkurius1">Revolusi : 88 hari
+        \nRotasi : 58,65 hari
+        \nJarak ke Matahari : 57,91juta Km
+        \nJarak ke Bumi : 92juta Km
+        \nDiameter : 4.879 Km</string>
+    <string name="ct_merkurius2">Planet Merkurius dikenal juga sebagai Hermes pada mitologi Yunani dan 
+        Nabu pada mitologi Babilonia. Di dalam budaya Tiongkok, Korea,Jepang dan Vietnam Merkurius 
+        dinamakan “bintang air”. Di india Merkurius dinamai Budha, anak dari Candra sang bulan. Orang –
+        orang Ibrani menamakannya Kokhav Hamah (bintang dari yang panas). </string>
+   	<string name="ct_venus1">Revolusi : 224 hari
+        \nRotasi : 243 hari
+        \nJarak ke Matahari : 108,21juta Km
+        \nJarak ke Bumi : 42juta Km
+        \nDiameter : 12.104 Km</string>
+   	<string name="ct_venus2">Planet venus dinamai dari dewi cinta dan kecantikan dalam mitologi romawi. 
+   	    Venus merupakan obyek alami tercerah di langit malam. Kecerahan maksimal planet ini dapat dilihat 
+   	    segera sebelum matahari terbit atau setelah matahari terbenam.</string>
+   	<string name="ct_bumi1">Revolusi : 1 tahun
+        \nRotasi : 23jam 56menit
+        \nJarak ke Matahari : 149,6juta Km
+        \nDiameter : 12.756 Km</string>
+   	<string name="ct_bumi2">Bumi adalah sebuah planet kebumian, yang artinya terbuat dari batuan. 
+   	    Hal ini berbeda dibandingkan gas raksasa seperti Jupiter. Planetini adalah yang terbesar dari 
+   	    empat planet kebumian, baik dalam hal massa maupun ukuran. Dari keempat planet kebumian, Bumi 
+   	    juga memiliki kepadatan tertinggi, gravitasi permukaan terbesar, medan magnet terkuat dan 
+   	    rotasi paling cepat. Bumi juga merupakan satu-satunya planet kebumian yang memiliki lempeng 
+   	    tektonik yang aktif.</string>
+   	<string name="ct_mars1">Revolusi : 1,88 tahun
+        \nRotasi : 24jam 37menit
+        \nJarak ke Matahari : 227,94juta Km
+        \nJarak ke Bumi : 56juta Km
+        \nDiameter : 6.805 Km</string>
+   	<string name="ct_mars2">Mars dinamai dari dewa perang Romawi Mars. Plant ini dijuluki sebagai 
+   	    “planet merah” karena tampak berwarna kemerah – merahan.  Lingkungan Mars lebih bersahabat 
+   	    bagi kehidupan dibandingkan keadaan Planet Venus. Namun begitu, keadaannya tidak cukup ideal 
+   	    untuk manusia. Suhu udara yang cukup rendah dan tekanan udara yang rendah, ditambah dengan 
+   	    komposisi udara yang sebagian besar karbondioksida, menyebabkan manusia harus menggunakan alat 
+   	    bantu pernapasan jika ingin tinggal di sana.</string>
+   	<string name="ct_jupiter1">Revolusi : 11,86 tahun
+        \nRotasi : 9 jam 55 menit
+        \nJarak ke Matahari : 778,41juta Km
+        \nJarak ke Bumi : 592,2juta Km
+        \nDiameter : 142.984 Km</string>
+   	<string name="ct_jupiter2">Yupiter adalah planet terdekat kelima dari Matahari setelah Merkurius, 
+   	    Venus, Bumi, dan Mars. Planet ini juga merupakan planet terbesar di Tata Surya. Yupiter 
+   	    merupakan raksasa gas dengan massa seperseribu massa Matahari dan dua setengah kali jumlah 
+   	    massa semua planet lain di Tata Surya. Planet ini dan raksasa gas lain di Tata Surya (yaitu 
+   	    Saturnus, Uranus, dan Neptunus) kadang-kadang disebut planet Jovian atau planet luar. Yupiter 
+   	    telah dikenal oleh para astronom sejak zaman kuno, dan dikaitkan dengan mitologi dan 
+   	    kepercayaan religius banyak peradaban. Bangsa Romawi menamai planet ini dari dewa Yupiter dalam 
+   	    mitologi Romawi.</string>
+   	<string name="ct_saturnus1">Revolusi : 29,45 tahun
+        \nRotasi : 10jam 47menit
+        \nJarak ke Matahari : 1.426,72juta Km
+        \nJarak ke Bumi : 1.200juta Km
+        \nDiameter : 120.536 Km</string>
+   	<string name="ct_saturnus2">Saturnus adalah sebuah planet di tata surya yang dikenal juga sebagai 
+   	    planet bercincin, dan merupakan planet terbesar kedua di tata surya setelah Jupiter. Jarak 
+   	    Saturnus sangat jauh dari Matahari, karena itulah Saturnus tampak tidak terlalu jelas dari 
+   	    Bumi. Saturnus berevolusi dalam waktu 29,46 tahun. Setiap 378 hari, Bumi, Saturnus dan Matahari 
+   	    akan berada dalam satu garis lurus. Selain berevolusi, Saturnus juga berotasi dalam waktu yang 
+   	    sangat singkat, yaitu 10 jam 40 menit 24 detik.</string>
+   	<string name="ct_uranus1">Revolusi : 84,02 tahun
+        \nRotasi : 17jam 14menit
+        \nJarak ke Matahari : 2.870,97juta Km
+        \nJarak ke Bumi : 2.600juta Km
+        \nDiameter : 51.118 Km</string>
+   	<string name="ct_uranus2">Uranus adalah planet ketujuh dari Matahari dan planet yang terbesar 
+   	    ketiga dan terberat keempat dalam Tata Surya. Ia dinamai dari nama dewa langit Yunani kuno 
+   	    Uranus (Οὐρανός) ayah dari Kronos (Saturnus) dan kakek dari Zeus (Jupiter). Meskipun Uranus 
+   	    terlihat dengan mata telanjang seperti lima planet klasik, ia tidak pernah dikenali sebagai 
+   	    planet oleh pengamat dahulu kala karena redupnya dan orbitnya yang lambat. Sir William 
+   	    Herschel mengumumkan penemuannya pada tanggal 13 Maret 1781, menambah batas yang diketahui dari 
+   	    Tata Surya untuk pertama kalinya dalam sejarah modern. Uranus juga merupakan planet pertama 
+   	    yang ditemukan dengan menggunakan teleskop.</string>
+   	<string name="ct_neptunus1">Revolusi : 164,79 tahun
+        \nRotasi : 16jam 7menit
+        \nJarak ke Matahari : 4.498,25juta Km
+        \nJarak ke Bumi : 4.300juta Km
+        \nDiameter : 49.528 Km</string>
+   	<string name="ct_neptunus2">Neptunus merupakan planet terjauh (kedelapan) jika ditinjau dari 
+   	    Matahari. Planet ini dinamai dari dewa lautan Romawi. Simbol astronomisnya adalah, yang 
+   	    merupakan trident dewa Neptunus. Neptunus ditemukan pada tanggal 23 September 1846. Planet ini 
+   	    merupakan planet pertama yang ditemukan melalui prediksi matematika. Perubahan yang tak terduga 
+   	    di orbit Uranus membuat Alexis Bouvard menyimpulkan bahwa hal tersebut diakibatkan oleh 
+   	    gangguan gravitasi dari planet yang tak dikenal. Neptunus selanjutnya diamati oleh Johann Galle 
+   	    dalam posisi yang diprediksikan olehUrbain Le Verrier.</string>
+</resources>
